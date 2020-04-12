@@ -1,5 +1,7 @@
 # Inkdrop Web Clipper
 
+**This plugin has not been updated for Inkdrop 4.x.** I do not use Inkdrop anymore and have no plans to update this plugin, but feel free to fork it (or use it as reference to build an even better version).
+
 A plugin for [Inkdrop](https://www.inkdrop.info/) which allows you to clip web pages into new notes, similar to Evernote or OneNote.
 
 
